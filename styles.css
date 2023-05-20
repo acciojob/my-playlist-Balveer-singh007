@@ -6,6 +6,14 @@ h1,h2{
 	text-align:center;
 }
 
+li{
+	list-style:none;
+}
+a{
+	margin:auto;
+	padding:40px;
+}
+
 .player_one{
 	background-color:white;
 	border-radius:4px;
