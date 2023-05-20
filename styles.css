@@ -11,11 +11,15 @@ h1,h2{
 	border-radius:4px;
 	
 }
-.player_two{
+.player_two,.another_player{
 	background-color:white;
 	width:320px;
 	padding:10px;
 	border-radius:6px;
 	margin: auto;
 	
+}
+p{
+	text-align:center;
+	margin:auto;
 }
